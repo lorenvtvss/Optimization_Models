@@ -1,3 +1,3 @@
 # Optimization Models
 
-Advanced Optimization Models for Decision Making
+Homeworks of the course "Advanced Optimization Models for Decision Making".
